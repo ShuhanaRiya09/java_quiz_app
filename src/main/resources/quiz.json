@@ -1,0 +1,122 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Quality improvement",
+    "option 4": "Code optimization",
+    "question": "What is the primary goal of Software Quality Assurance (SQA)?",
+    "option 1": "Debugging",
+    "option 2": "Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "To document the testing process",
+    "option 4": "To design the software",
+    "question": "What is the purpose of a test case?",
+    "option 1": "To find bugs in the code",
+    "option 2": "To execute the program"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Testing is only the responsibility of the testing team",
+    "option 4": "Quality is solely the concern of the development team",
+    "question": "Which of the following is a key principle of SQA?",
+    "option 1": "Delay testing until the end of the development process",
+    "option 2": "Correcting defects is more costly in the later stages of development"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "White-box testing",
+    "option 4": "Regression testing",
+    "question": "Which testing technique involves testing the software's behavior against a set of input values?",
+    "option 1": "Boundary value analysis",
+    "option 2": "Equivalence partitioning"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Verification checks the product against the specifications, while validation ensures it works in the intended environment",
+    "option 4": "Verification is performed by developers, and validation is performed by testers",
+    "question": "What is the difference between validation and verification in the context of SQA?",
+    "option 1": "They are synonymous",
+    "option 2": "Validation checks if the product is built correctly, while verification checks if it meets the customer's requirements"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To analyze code complexity",
+    "option 4": "To review the quality of the code",
+    "question": "What is the purpose of a test plan?",
+    "option 1": "To execute test cases",
+    "option 2": "To document the testing strategy and approach"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Verifying the correctness of algorithms",
+    "option 4": "Assessing the performance of the system",
+    "question": "What is the primary focus of usability testing?",
+    "option 1": "Checking the system's security",
+    "option 2": "Evaluating the user interface and overall user experience"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To manage project schedules",
+    "option 4": "To analyze code complexity",
+    "question": "What is the primary purpose of a test execution tool?",
+    "option 1": "To design test cases",
+    "option 2": "To execute test cases and compare actual results with expected results"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "To provide a summary of completed testing activities and the current status of the project",
+    "option 4": "To evaluate the user interface",
+    "question": "What is the primary purpose of a test closure report?",
+    "option 1": "To execute test cases",
+    "option 2": "To document the testing process"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "By automating all testing processes",
+    "option 4": "By delaying testing until the end of the development process",
+    "question": "How does Static Code Analysis contribute to software quality?",
+    "option 1": "By focusing solely on manual testing",
+    "option 2": "By analyzing code without executing it to find potential defects"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "By managing project schedules",
+    "option 4": "By focusing solely on manual testing",
+    "question": "How does Acceptance Criteria contribute to the testing process?",
+    "option 1": "By evaluating the user interface and overall user experience",
+    "option 2": "By specifying conditions that must be met for a feature to be considered complete"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "hr",
+    "option 4": "project manager",
+    "question": "whats the role of software tester",
+    "option 1": "qa",
+    "option 2": "developer"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "postman",
+    "option 4": "jmeter",
+    "question": "Which tool is commonly used for load testing in SQA?",
+    "option 1": "slack",
+    "option 2": "docker"
+  }
+]
